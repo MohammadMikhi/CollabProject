@@ -5,4 +5,8 @@ public class Project {
     public int getProjectNum() {
         return projectNum;
     }
+
+    public String[] getEmployees() {
+        return employees;
+    }
 }
